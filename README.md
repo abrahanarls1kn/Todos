@@ -1,2 +1,2 @@
 # Todos
-I have to learn
+I have to learn how
